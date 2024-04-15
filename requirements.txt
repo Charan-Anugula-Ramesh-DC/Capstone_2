@@ -10,4 +10,3 @@ flask
 langchain
 langchain-openai
 transformers
-string
