@@ -5,7 +5,6 @@ scikit-learn
 gensim
 xgboost
 argparse
-os
 random
 warnings
 dataclasses
