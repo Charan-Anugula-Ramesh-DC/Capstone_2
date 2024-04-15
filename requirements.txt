@@ -5,7 +5,6 @@ scikit-learn
 gensim
 xgboost
 argparse
-warnings
 dataclasses
 flask
 langchain
