@@ -4,7 +4,6 @@ nltk
 scikit-learn
 gensim
 xgboost
-pickle
 argparse
 os
 random
